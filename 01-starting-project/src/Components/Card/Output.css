@@ -1,0 +1,23 @@
+.users {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+    background-color: bisque;
+    border-radius: 24px;
+    border:1px solid black;
+  }
+  
+  .users ul {
+    list-style: none;
+    padding: 1rem;
+
+  }
+  
+  .users li {
+    border: 1px solid #ccc;
+    background-color: white;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
+  
